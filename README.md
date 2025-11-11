@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack MERN Developer | React & Node Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DC2FF&center=true&vCenter=true&width=480&lines=Clean+Code.+Modern+UI.+Scalable+Apps.;MERN+Developer+from+India.;Building+beautiful+web+experiences.💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DC2FF&center=true&vCenter=true&width=480&lines=Clean+Code.+Modern+UI.+Scalable+Apps.;MERN+Developer+from+India.;Building+beautiful+web+experiences" alt="Typing SVG" />
 </p>
 
 ---
