@@ -38,8 +38,8 @@
   <a href="https://github.com/Deepa-Codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
+<!---
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deepa-Codes&show_icons=true&theme=tokyonight&hide_border=true" alt="Deepa's GitHub stats" />
 </p>
@@ -47,3 +47,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepa-Codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+---->
